@@ -1,0 +1,6 @@
+gradio
+Pillow
+facenet-pytorch
+torch
+opencv-python
+grad-cam
